@@ -26,6 +26,7 @@ public class StringTestMain {
         System.out.println(a.equals("ab@"));
         System.out.println(a.equals("abc"));
         System.out.println("abc".equals("ab@"));
+        System.out.println(1 << 30);
 
         int port = 80;
         int size = 20;
